@@ -1,4 +1,3 @@
-//Omkar Kulkarni 11925596
 package com.example.todo;
 
 import android.app.Activity;
